@@ -6,8 +6,25 @@ This extension does its best to reverse the ill-designed logo and atrocious colo
 
 Note that it may not cover all places and pages since I focused on the pages that I use the most. Of course, any suggestions and additions are welcome!
 
-Please also support [this petition](https://www.change.org/p/stop-the-new-imperial-logo)
+Please also support [this petition](https://www.change.org/p/stop-the-new-imperial-logo)!
+
+## Example
+
+**Before**:
+
+![Before](./img/before.png)
+
+**After**:
+
+![After](./img/after.png)
 
 ## Installation
 
 Chrome Extension Pending Review...
+
+## Features
+
+It currently covers the [official website](), [Imperial Panopto](https://imperial.cloud.panopto.eu/Panopto/Pages/Home.aspx), and [Microsoft PowerApp](https://apps.powerapps.com/) (because I use it to manage my casual worker claims).
+
+- Revert the new icon (including favicon) and logo to the old ones.
+- Replace the infamous "Imperial Blue" (#0000CD) to a nicer blue.
