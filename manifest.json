@@ -1,0 +1,45 @@
+{
+  "manifest_version": 3,
+  "name": "I",
+  "version": "0.1.0",
+  "description": "Say No to the New Imperial College London Logo!",
+  "content_scripts": [
+    {
+      "js": [
+        "content.js"
+      ],
+      "run_at": "document_end",
+      "matches": [
+        "https://imperial.cloud.panopto.eu/*",
+        "https://apps.powerapps.com/*",
+        "https://www.imperial.ac.uk/*"
+      ]
+    }
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": [
+        "I.png"
+      ],
+      "matches": [
+        "http://*/*",
+        "https://*/*"
+      ]
+    },
+    {
+      "resources": [
+        "ICL.png"
+      ],
+      "matches": [
+        "http://*/*",
+        "https://*/*"
+      ]
+    }
+  ],
+  "icons": {
+    "16": "disaster.png",
+    "32": "disaster.png",
+    "48": "disaster.png",
+    "128": "disaster.png"
+  }
+}
