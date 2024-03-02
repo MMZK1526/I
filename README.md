@@ -20,7 +20,7 @@ Please also support [this petition](https://www.change.org/p/stop-the-new-imperi
 
 ## Installation
 
-Chrome Extension Pending Review...
+Download from [here](https://chromewebstore.google.com/detail/i/nfajkinennmghnmbhehcihgoogobfpmh).
 
 ## Features
 
