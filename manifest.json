@@ -12,7 +12,8 @@
       "matches": [
         "https://imperial.cloud.panopto.eu/*",
         "https://apps.powerapps.com/*",
-        "https://www.imperial.ac.uk/*"
+        "https://www.imperial.ac.uk/*",
+        "https://imperial-ac-uk.zoom.us/*"
       ]
     }
   ],

@@ -86,9 +86,9 @@ function I_icon() {
         imgs[i].src = chrome.runtime.getURL("ICL.png");
     }
 
-    // Get all <img> with class containing "header-logo"
+    // Get all <img> with class containing "header-logo" or equals to "logo"
     // Replace the src of each <img> with the old icon
-    const imgs2 = document.querySelectorAll('img[class*="header-logo"]');
+    const imgs2 = document.querySelectorAll('img[class*="header-logo"], img[class="logo"]');
     for (let i = 0; i < imgs2.length; i++) {
         imgs2[i].src = chrome.runtime.getURL("ICL.png");
     }

@@ -24,7 +24,7 @@ Download from [here](https://chromewebstore.google.com/detail/i/nfajkinennmghnmb
 
 ## Features
 
-It currently covers the [official website](), [Imperial Panopto](https://imperial.cloud.panopto.eu/Panopto/Pages/Home.aspx), and [Microsoft PowerApp](https://apps.powerapps.com/) (because I use it to manage my casual worker claims).
+It currently covers the [official website](), [Imperial Panopto](https://imperial.cloud.panopto.eu/Panopto/Pages/Home.aspx), [Imperial Zoom](https://imperial-ac-uk.zoom.us/) and [Microsoft PowerApp](https://apps.powerapps.com/) (because I use it to manage my casual worker claims).
 
 - Revert the new icon (including favicon) and logo to the old ones.
 - Replace the infamous "Imperial Blue" (#0000CD) to a nicer blue.
